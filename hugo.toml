@@ -18,7 +18,7 @@ enableRobotsTXT = true
   showBlog = false
   #mainSections = ['blog']
 
-  googleFonts = true
+  googleFonts = false
 
   [params.logo]
     main = "img/logo/logo.jpg"
